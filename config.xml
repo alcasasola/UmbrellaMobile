@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.moodle.umbrellamobile" version="1.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Umbrella EduCom Mobile</name>
+  <name>Umbrella EduCom Mobile -</name>
   <description>Umbrella EduCom Mobile app</description>
   <author href="http://umbrellaec.com.ar" email="contacto@umbrellaec.com.ar">Umbrella EduCom</author>
   <content src="index.html"/>
